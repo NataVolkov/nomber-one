@@ -1,1 +1,5 @@
-# nomber-one
+# nomber-one project
+
+## install
+
+## run
